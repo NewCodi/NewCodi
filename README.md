@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Allen!
+- 👋 Hi, I’m Codi
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning Matter CHIP
 
