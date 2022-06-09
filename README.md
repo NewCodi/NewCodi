@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Codi
+- 👋 Hi, I’m New Codi
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Matter CHIP
 
 <!---
 NewCodi/NewCodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
