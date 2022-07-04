@@ -1,5 +1,4 @@
-- 👋 Hi, I’m New Codi
-- 👀 I’m interested in software development.
+- This is Codi. I am from electronic to software development.
 
 <!---
 NewCodi/NewCodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
